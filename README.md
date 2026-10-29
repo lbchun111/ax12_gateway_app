@@ -1,6 +1,5 @@
 # AX12 对接宇树 Go2 SDK 开发文档
-
-> 适用项目：`D:\GitLab\Remote_control\remote`  
+ 
 > 机器人：Unitree Go2 EDU  
 > Android 设备：RadioMaster AX12（Android 9）  
 > SDK：`unitree_sdk2_python` + CycloneDDS  
